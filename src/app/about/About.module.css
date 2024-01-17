@@ -1,0 +1,24 @@
+/* styles/About.module.css */
+.container {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex-grow: 1;
+  padding: 40px;
+}
+
+.aboutSection {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.head {
+  padding-top: 50px;
+  padding-bottom: 20px; /* Adjusted to a reasonable value */
+}
