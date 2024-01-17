@@ -1,0 +1,28 @@
+/* styles/Navbar.module.css */
+.navbar {
+    background-color: #333; /* Adjust the color to match your black background */
+    padding: 10px;
+    display: flex;
+    /* justify-content: space-evenly; */
+  }
+  
+  .navLink {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 8px;
+    transition: color 0.3s ease;
+    padding-left: 130px
+  }
+  
+  .navLink:hover {
+    color: #00bcd4; /* Change the color on hover */
+  }
+  .logo {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 8px;
+  }
+  
