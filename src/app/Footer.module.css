@@ -1,0 +1,11 @@
+/* styles/Footer.module.css */
+.footer {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
